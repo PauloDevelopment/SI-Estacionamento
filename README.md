@@ -248,6 +248,8 @@ SI-Estacionamento/
 
 - **📁 GitHub:** [github.com/PauloDevelopment/SI-Estacionamento](https://github.com/PauloDevelopment/SI-Estacionamento.git)
 - **📋 Trello:** [trello.com/b/aATKGGyj/si-estacionamento](https://trello.com/b/aATKGGyj/si-estacionamento)
+- **🎨 Figma:** [https://www.figma.com/design/j5htYQBqhvOAOUWtdgHaLq/Parada-Impactante?node-id=0-1&t=Vhxf15qvFcAjWK0l-1)
+
 
 ---
 
