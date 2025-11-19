@@ -1,6 +1,6 @@
 # 🚗 Sistema de Estacionamento - Parada Impactante
 
-**Status:** ✅ Projeto Concluído | **Data:** 24/09/2025 | **Versão:** 1.0.0 | **Licença:** MIT
+**Status:** ✅ Projeto Concluído | **Data:** 19/11/2025 | **Versão:** 1.0.0 | **Licença:** MIT
 
 ---
 
@@ -274,4 +274,4 @@ Analista de Requisitos | SI3AN | RA: 2404227
 **🎓 Faculdade Impacta Tecnologia**  
 **📚 Engenharia de Requisitos**  
 **📅 São Paulo - SP | 2024**  
-**✅ Projeto Concluído em: 24/09/2025**
+**✅ Projeto Concluído em: 19/11/2025**
